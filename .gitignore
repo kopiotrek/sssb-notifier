@@ -1,4 +1,5 @@
 .vscode/*
 !.vscode/settings.json
 .DS_Store
-previous-number.txt
+previous-num
+sssb_venv/
