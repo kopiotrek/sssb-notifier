@@ -1,7 +1,7 @@
 #!/bin/bash
-export GMAIL_USER="kopiotrek@gmail.com"
-export RECEIVING_USER="kopiotrek@gmail.com"
-export GMAIL_PASSWORD="wlqbvipuflnkyugp"
+export GMAIL_USER=""
+export RECEIVING_USER=""
+export GMAIL_PASSWORD=""
 
 # Activate the virtual environment
 source ~/Documents/sssb-notifier/sssb_venv/bin/activate
